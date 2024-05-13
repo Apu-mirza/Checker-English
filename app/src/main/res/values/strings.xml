@@ -1,0 +1,765 @@
+<resources>
+    <string name="app_name">CheckerEnglish</string>
+
+
+    <string-array name="abbreviations">
+
+        <item>ASAP</item>
+        <item>AWOL</item>
+        <item>BRB</item>
+        <item>DIY</item>
+        <item>EOBD</item>
+        <item>EOD</item>
+        <item>ETA</item>
+        <item>FAQ</item>
+        <item>FBI</item>
+        <item>FYI</item>
+        <item>HR</item>
+        <item>IDK</item>
+        <item>IIRC</item>
+        <item>ILY</item>
+        <item>IMO</item>
+        <item>IRL</item>
+        <item>LOL</item>
+        <item>MBA</item>
+        <item>MIA</item>
+        <item>NASA</item>
+        <item>NSFW</item>
+        <item>NVM</item>
+        <item>OMG</item>
+        <item>OMW</item>
+        <item>POS</item>
+        <item>POV</item>
+        <item>SWAT</item>
+        <item>TBA</item>
+        <item>TGIF</item>
+        <item>TMI</item>
+        <item>TTYL</item>
+        <item>TYVM</item>
+
+
+    </string-array>
+
+    <string-array name="acronyms">
+
+        <item>As Soon As Possible</item>
+        <item>Absent Without Leave</item>
+        <item>Be Right Back</item>
+        <item>Do It Yourself</item>
+        <item>End Of Business Day</item>
+        <item>End Of Day</item>
+        <item>Estimated Time of Arrival</item>
+        <item>Frequently Asked Questions</item>
+        <item>Federal Bureau of Investigation</item>
+        <item>For Your Information</item>
+        <item>Human Resources</item>
+        <item>I Don’t Know</item>
+        <item>If I Recall/Remember Correctly</item>
+        <item>I Love You</item>
+        <item>In My Opinion</item>
+        <item>In Real Life</item>
+        <item>Laughing Out Loud</item>
+        <item>Masters of Business Administration</item>
+        <item>Missing In Action</item>
+        <item>National Aeronautics and Space Administration</item>
+        <item>Not Safe For Work</item>
+        <item>Never mind</item>
+        <item>Oh My God</item>
+        <item>On My Way</item>
+        <item>Point Of Service</item>
+        <item>Point Of View</item>
+        <item>Special Weapons And Tactics</item>
+        <item>To Be Announced</item>
+        <item>Thank God It’s Friday</item>
+        <item>Too Much Information</item>
+        <item>Talk To You Later</item>
+        <item>Thank You Very Much</item>
+
+
+    </string-array>
+
+    <string-array name="topics">
+
+        <item>Voice Search</item>
+        <item>Translate</item>
+        <item>Favorites</item>
+        <item>Regular Used</item>
+        <item>Phrases</item>
+        <item>Idioms</item>
+        <item>Proverb</item>
+        <item>Share</item>
+        <item>Rate App</item>
+
+    </string-array>
+
+    <string-array name="phrases">
+
+        <item>A bed of roses.\nপস্পশজ্জা নয়</item>
+        <item>A bed of thorns.\nকন্তকারনিয়</item>
+        <item>A bird of passage.\n</item>
+        <item>A bolt from the blue.</item>
+        <item>A bosom friend.\nঘনিষ্ঠ বন্ধু </item>
+        <item>A dead letter.\nদলিল পত্র</item>
+        <item>A fish out of water.\nঅল্প পানির মাছ</item>
+        <item>a hard nut to crack.</item>
+        <item>A lame excuse.</item>
+        <item>A lot of.</item>
+        <item>A man of letters.</item>
+        <item>A man of parts.</item>
+        <item>A man of straw.</item>
+        <item>A man of the world.</item>
+        <item>A piece of cake.</item>
+        <item>A slow coach.</item>
+        <item>Above all.</item>
+        <item>Above board.</item>
+        <item>According to.</item>
+        <item>Achilles heel.</item>
+        <item>Acid test.</item>
+        <item>Act for.</item>
+        <item>Act upon.</item>
+        <item>Add fuel to the fire.</item>
+        <item>After all.</item>
+        <item>After ones own heart.</item>
+        <item>Agree with.</item>
+        <item>All along.</item>
+        <item>All and sundry.</item>
+        <item>All at once.</item>
+        <item>All but.</item>
+        <item>All day long.</item>
+        <item>All greek.</item>
+        <item>All in.</item>
+        <item>All in all.</item>
+        <item>All on a sudden.</item>
+        <item>All over.</item>
+        <item>All over with.</item>
+        <item>All the same.</item>
+        <item>All the while.</item>
+        <item>An open secret.</item>
+        <item>Answer for.</item>
+        <item>Apple of ones eye.</item>
+        <item>Armed to the teeth.</item>
+        <item>As a rule.</item>
+        <item>As soon as.</item>
+        <item>As if.</item>
+        <item>As it were.</item>
+        <item>A bosom friend.</item>
+        <item>A dead letter.</item>
+        <item>A fish out of water.</item>
+        <item>a hard nut to crack.</item>
+        <item>A lame excuse.</item>
+        <item>A lot of.</item>
+        <item>A man of letters.</item>
+        <item>A man of parts.</item>
+        <item>A man of straw.</item>
+        <item>A man of the world.</item>
+        <item>A piece of cake.</item>
+        <item>A slow coach.</item>
+        <item>Above all.</item>
+        <item>Above board.</item>
+        <item>According to.</item>
+        <item>Achilles heel.</item>
+        <item>Acid test.</item>
+        <item>Act for.</item>
+        <item>Act upon.</item>
+        <item>Add fuel to the fire.</item>
+        <item>After all.</item>
+        <item>After ones own heart.</item>
+        <item>Agree with.</item>
+        <item>All along.</item>
+        <item>All and sundry.</item>
+        <item>All at once.</item>
+        <item>All but.</item>
+        <item>All day long.</item>
+        <item>All greek.</item>
+        <item>All in.</item>
+        <item>All in all.</item>
+        <item>All on a sudden.</item>
+        <item>All over.</item>
+        <item>All over with.</item>
+        <item>All the same.</item>
+        <item>All the while.</item>
+        <item>An open secret.</item>
+        <item>Answer for.</item>
+        <item>Apple of ones eye.</item>
+        <item>Armed to the teeth.</item>
+
+
+    </string-array>
+
+    <string-array name="phrases_example">
+
+        <item>A bed of roses.</item>
+        <item>A bed of thorns.</item>
+        <item>A bird of passage.</item>
+        <item>A bolt from the blue.</item>
+        <item>A bosom friend.</item>
+        <item>A dead letter.</item>
+        <item>A fish out of water.</item>
+        <item>a hard nut to crack.</item>
+        <item>A lame excuse.</item>
+        <item>A lot of.</item>
+        <item>A man of letters.</item>
+        <item>A man of parts.</item>
+        <item>A man of straw.</item>
+        <item>A man of the world.</item>
+        <item>A piece of cake.</item>
+        <item>A slow coach.</item>
+        <item>Above all.</item>
+        <item>Above board.</item>
+        <item>According to.</item>
+        <item>Achilles heel.</item>
+        <item>Acid test.</item>
+        <item>Act for.</item>
+        <item>Act upon.</item>
+        <item>Add fuel to the fire.</item>
+        <item>After all.</item>
+        <item>After ones own heart.</item>
+        <item>Agree with.</item>
+        <item>All along.</item>
+        <item>All and sundry.</item>
+        <item>All at once.</item>
+        <item>All but.</item>
+        <item>All day long.</item>
+        <item>All greek.</item>
+        <item>All in.</item>
+        <item>All in all.</item>
+        <item>All on a sudden.</item>
+        <item>All over.</item>
+        <item>All over with.</item>
+        <item>All the same.</item>
+        <item>All the while.</item>
+        <item>An open secret.</item>
+        <item>Answer for.</item>
+        <item>Apple of ones eye.</item>
+        <item>Armed to the teeth.</item>
+        <item>As a rule.</item>
+        <item>As soon as.</item>
+        <item>As if.</item>
+        <item>As it were.</item>
+        <item>A bosom friend.</item>
+        <item>A dead letter.</item>
+        <item>A fish out of water.</item>
+        <item>a hard nut to crack.</item>
+        <item>A lame excuse.</item>
+        <item>A lot of.</item>
+        <item>A man of letters.</item>
+        <item>A man of parts.</item>
+        <item>A man of straw.</item>
+        <item>A man of the world.</item>
+        <item>A piece of cake.</item>
+        <item>A slow coach.</item>
+        <item>Above all.</item>
+        <item>Above board.</item>
+        <item>According to.</item>
+        <item>Achilles heel.</item>
+        <item>Acid test.</item>
+        <item>Act for.</item>
+        <item>Act upon.</item>
+        <item>Add fuel to the fire.</item>
+        <item>After all.</item>
+        <item>After ones own heart.</item>
+        <item>Agree with.</item>
+        <item>All along.</item>
+        <item>All and sundry.</item>
+        <item>All at once.</item>
+        <item>All but.</item>
+        <item>All day long.</item>
+        <item>All greek.</item>
+        <item>All in.</item>
+        <item>All in all.</item>
+        <item>All on a sudden.</item>
+        <item>All over.</item>
+        <item>All over with.</item>
+        <item>All the same.</item>
+        <item>All the while.</item>
+        <item>An open secret.</item>
+        <item>Answer for.</item>
+        <item>Apple of ones eye.</item>
+        <item>Armed to the teeth.</item>
+
+
+    </string-array>
+
+    <string-array name="ph_example">
+
+        <item>Life is not a bed of roses</item>
+        <item>Life is generally a bed of thorns</item>
+        <item>The news of his mothers death came to me as a bolt from the blue.</item>
+        <item>Ali is my bosom friend</item>
+        <item>The will has become a dead letter now.</item>
+        <item>I felt like a fish out of water in the new place.</item>
+        <item>You will not convince a hard nut to crack like him.</item>
+        <item>The student gave a lame excuse to his teacher.</item>
+        <item>Allah gave us a lot of resources.</item>
+        <item>Dr. Shahidullah is a man of letters.</item>
+        <item>My friend is a man of parts.</item>
+        <item>Karim is a man of straw.</item>
+        <item>A man of the world runs after money.</item>
+        <item>Getting a good job is not a piece a cake.</item>
+        <item>A slow coach cannot shine in life</item>
+        <item>He does not know even the ABC of painting.</item>
+        <item>Rabindranath is above all a poet.</item>
+        <item>His dealings are open and above board.</item>
+        <item>I did it according to your advice.</item>
+        <item>Hankering for votes is the achilles heel.</item>
+        <item>The coming election is the acid of the groups.</item>
+        <item>The senior clerk was asked to act for head clerk when he went on leave.</item>
+        <item>He act upon bodies and causes them to expand.</item>
+        <item>My request for help added fuel to the flame of his anger.</item>
+        <item>He is after all an honest man.</item>
+        <item>Do it. It will be after my own heart.</item>
+        <item>Oil does not agree with my stomach.</item>
+        <item>The teacher has all along adviset us to be diligent.</item>
+        <item>Muhsin helped all and sundry.</item>
+        <item>All at once he flew into a rage.</item>
+        <item>The patient was all but dead.</item>
+        <item>They worked all day long and grew tired.</item>
+        <item>What he says is all greek to me.</item>
+        <item>I am all in.</item>
+        <item>My friend Raihan is all in all at department.</item>
+        <item>All on a sudden he decided to start a business.</item>
+
+    </string-array>
+
+    <string-array name="idioms">
+
+        <item>Act ones age.</item>
+        <item>Age before beauty.</item>
+        <item>Age out of something.</item>
+        <item>Age before beauty.</item>
+        <item>Come of age.</item>
+        <item>Coons age.</item>
+        <item>Dogs age.</item>
+        <item>Feel your age.</item>
+        <item>Get on in years.</item>
+        <item>Get on in years.</item>
+        <item>Golden age.</item>
+
+    </string-array>
+
+    <string-array name="idioms_example">
+
+        <item>Act ones age.</item>
+        <item>Age before beauty.</item>
+        <item>Age out of something.</item>
+        <item>Age before beauty.</item>
+        <item>Come of age.</item>
+        <item>Coons age.</item>
+        <item>Dogs age.</item>
+        <item>Feel your age.</item>
+        <item>Get on in years.</item>
+        <item>Get on in years.</item>
+        <item>Golden age.</item>
+
+    </string-array>
+
+    <string-array name="regular">
+
+        <item>Act ones age.</item>
+        <item>Age before beauty.</item>
+        <item>Age out of something.</item>
+        <item>Age before beauty.</item>
+        <item>Come of age.</item>
+        <item>Coons age.</item>
+        <item>Dogs age.</item>
+        <item>Feel your age.</item>
+        <item>Get on in years.</item>
+        <item>Get on in years.</item>
+        <item>Golden age.</item>
+
+
+    </string-array>
+    <string-array name="proverb">
+
+        <item>Act ones age.</item>
+        <item>Age before beauty.</item>
+        <item>Age out of something.</item>
+        <item>Age before beauty.</item>
+        <item>Come of age.</item>
+        <item>Coons age.</item>
+        <item>Dogs age.</item>
+        <item>Feel your age.</item>
+        <item>Get on in years.</item>
+        <item>Get on in years.</item>
+        <item>Golden age.</item>
+
+
+    </string-array>
+
+    <string-array name="proverb_example">
+
+        <item>Act ones age.</item>
+        <item>Age before beauty.</item>
+        <item>Age out of something.</item>
+        <item>Age before beauty.</item>
+        <item>Come of age.</item>
+        <item>Coons age.</item>
+        <item>Dogs age.</item>
+        <item>Feel your age.</item>
+        <item>Get on in years.</item>
+        <item>Get on in years.</item>
+        <item>Golden age.</item>
+
+
+    </string-array>
+
+
+    <string-array name="sub_topics">
+
+        <item>Alphabet\nবর্ণমালা</item>
+        <item>Animal\nজীবজন্তু</item>
+        <item>Calender\nক্যালেন্ডার</item>
+        <item>Colors\nরং</item>
+        <item>Conversation\nকথোপকথন</item>
+        <item>Direction\nদিশা</item>
+        <item>Driving\nগাড়ি চালানো</item>
+        <item>Emergency\nবিপদ কালীন</item>
+        <item>Expressions\nএক্সপ্রেশন</item>
+        <item>Feelings\nঅনুভুতি</item>
+        <item>Food\nখাবার</item>
+        <item>Friendship\nবন্ধুত্ব</item>
+        <item>Fruits\nফল</item>
+        <item>Games\nখেলাধুলা</item>
+        <item>Greetings\nসম্বর্ধনা</item>
+        <item>Grocery\nমুদিখানা</item>
+        <item>Health\nস্বাস্থ্য</item>
+        <item>Home\nবাসাবাড়ি</item>
+        <item>Hotel\nবসবাস</item>
+        <item>Humanbody\nমানবদেহ</item>
+        <item>Kitchen\nরান্নাঘর</item>
+        <item>Love\nপ্রেম</item>
+        <item>Number\nনম্বর</item>
+        <item>Office\nঅফিস</item>
+        <item>Regular\nসাধারণ</item>
+        <item>Relation\nসম্পর্ক</item>
+        <item>Shopping\nকেনাকাটা</item>
+        <item>Spice\nমসলা</item>
+        <item>Study\nলেখাপড়া</item>
+        <item>Time\nসময়</item>
+        <item>Travel\nভ্রমণ</item>
+        <item>Vegetable\nসবজি</item>
+        <item>Weather\nআবহাওয়া</item>
+
+    </string-array>
+
+    <string-array name="country_details">
+
+        <item>Afghanistan,[c] officially the Islamic Emirate of Afghanistan,[d] is a landlocked country\n</item>
+        <item>Armenia is a nation, and former Soviet republic, in the mountainous Caucasus region between Asia and Europe</item>
+        <item>Azerbaijan, the nation and former Soviet republic, is bounded by the Caspian Sea and Caucasus Mountains, which span Asia and Europe.</item>
+        <item>Bahrain, officially the Kingdom of Bahrain, is an island country in Western Asia.</item>
+        <item>Bangladesh, to the east of India on the Bay of Bengal, is a South Asian country marked by lush greenery and many waterways.</item>
+        <item>Bhutan officially the Kingdom of Bhutan, is a landlocked country in South Asia.</item>
+        <item>Bolivia is a country in central South America, with a varied terrain spanning Andes Mountains, the Atacama Desert and Amazon Basin rainforest</item>
+        <item>China, officially the Peoples Republic of China, is a country in East Asia.</item>
+        <item>Croatia, officially the Republic of Croatia, is a country at the crossroads of Central and Southeast Europe.</item>
+        <item>Denmark is a Scandinavian country comprising the Jutland Peninsula and numerous islands</item>
+        <item>Finland is a Northern European nation bordering Sweden, Norway and Russia.</item>
+        <item>Greenland is an island country in North America that is part of the Kingdom of Denmark.</item>
+        <item>India, officially the Republic of India, is a country in South Asia.</item>
+        <item>Pakistan, officially the Islamic Republic of Pakistan (Urdu: اِسلامی جمہوریہ پاکِستان) is a country in South Asia</item>
+        <item>Nepal is a multi-ethnic, multi-lingual, multi-religious and multi-cultural state, with Nepali as the official language</item>
+        <item>London, the capital of England and the United Kingdom, is a 21st-century city with history stretching back to Roman times</item>
+        <item>Malaysia is a Southeast Asian country occupying parts of the Malay Peninsula and the island of Borneo.</item>
+
+
+    </string-array>
+
+    <string-array name="country_names">
+
+        <item>Afghanistan</item>
+        <item>Armenia</item>
+        <item>Azerbaijan</item>
+        <item>Bahrain</item>
+        <item>Bangladesh</item>
+        <item>Bhutan</item>
+        <item>Bolivia</item>
+        <item>China</item>
+        <item>Croatia</item>
+        <item>Denmark</item>
+        <item>Finland</item>
+        <item>Greenland</item>
+        <item>India</item>
+        <item>Pakistan</item>
+        <item>Nepal</item>
+        <item>London</item>
+        <item>Malaysia</item>
+
+    </string-array>
+
+    <string-array name="alphabet">
+
+        <item>A\ta</item>
+        <item>B\tb</item>
+        <item>C\tc</item>
+        <item>D\td</item>
+        <item>E\te</item>
+        <item>F\tf</item>
+        <item>G\tg</item>
+        <item>H\th</item>
+        <item>I\ti</item>
+        <item>J\tj</item>
+        <item>K\tk</item>
+        <item>L\tl</item>
+        <item>M\tm</item>
+        <item>N\tn</item>
+        <item>O\to</item>
+        <item>P\tp</item>
+        <item>Q\tq</item>
+        <item>R\tr</item>
+        <item>S\ts</item>
+        <item>T\tt</item>
+        <item>U\tu</item>
+        <item>V\tv</item>
+        <item>W\tw</item>
+        <item>X\tx</item>
+        <item>Y\ty</item>
+        <item>Z\tz</item>
+
+    </string-array>
+
+    <string-array name="animal">
+
+        <item>Dog\nকুকুর</item>
+        <item>Cow\nগরু</item>
+        <item>Pigeon\nকবুতর</item>
+        <item>Albatross\n</item>
+        <item>Crow\nকাঁক</item>
+        <item>Fish\nমাছ</item>
+        <item>Dolphin\nডলফিন</item>
+        <item>Frog\nব্যাঙ</item>
+        <item>Porcupine\n</item>
+        <item>Hare\n</item>
+        <item>Hen\n</item>
+        <item>Rabbit\n</item>
+        <item>Crocodile\n</item>
+        <item>Tortoise\n</item>
+        <item>Turtle\n</item>
+        <item>bear\n</item>
+        <item>Polar\n</item>
+        <item>Elephant\n</item>
+        <item>Bear\n</item>
+        <item>Cheetah\n</item>
+        <item>Leopard\n</item>
+        <item>Panther\n</item>
+        <item>Lion\n</item>
+        <item>Tiger\n</item>
+        <item>Cat\n</item>
+        <item>Donkey\n</item>
+        <item>Horse\n</item>
+        <item>Whale\n</item>
+        <item>Alligator\n</item>
+        <item>Eagle\n</item>
+        <item>Albatross\n</item>
+        <item>Flying\n</item>
+        <item>squirrel\n</item>
+        <item>Ostrich\n</item>
+        <item>Fox\n</item>
+        <item>Goat\n</item>
+        <item>Jackal\n</item>
+        <item>Emu\n</item>
+        <item>Eel\n</item>
+        <item>Goose\n</item>
+        <item>Arctic\n</item>
+        <item>Wolf\n</item>
+        <item>Beagle\n</item>
+        <item>Gorilla\n</item>
+        <item>Chimpanzee\n</item>
+        <item>Monkey\n</item>
+        <item>Orangutan\n</item>
+        <item>Leopard\n</item>
+        <item>Antelope\n</item>
+        <item>Bat\n</item>
+        <item>Badger\n</item>
+        <item>Giraffe\n</item>
+        <item>Hermit\n</item>
+        <item>Crab\n</item>
+        <item>Bison\n</item>
+        <item>Wombat\n</item>
+        <item>Possum\n</item>
+        <item>Zebra\n</item>
+        <item>Rhinoceros\n</item>
+        <item>Jellyfish\n</item>
+        <item>Dodo\n</item>
+        <item>Chinchillas\n</item>
+        <item>Llama\n</item>
+        <item>Iguana\n</item>
+        <item>Kangaroo\n</item>
+        <item>Koala\n</item>
+        <item>Lizard\n</item>
+        <item>Ibex\n</item>
+        <item>King Cobra\n</item>
+        <item>Beagle\n</item>
+        <item>Jaguar\n</item>
+        <item>Chihuahua\n</item>
+        <item>Chameleon\n</item>
+        <item>Hawk\n</item>
+        <item>Camel\n</item>
+        <item>shark\n</item>
+        <item>Hammerhead\n</item>
+        <item>Cobra\n</item>
+        <item>Hamster\n</item>
+        <item>Panda\n</item>
+        <item>Giant\n</item>
+        <item>Bull\n</item>
+        <item>Buffalo\n</item>
+        <item>Sheep\n</item>
+        <item>Meerkat\n</item>
+        <item>Mouse\n</item>
+        <item>Otter\n</item>
+        <item>Vulture\n</item>
+        <item>Flamingo\n</item>
+        <item>Owl\n</item>
+        <item>Sloth\n</item>
+        <item>Mole\n</item>
+        <item>Duck\n</item>
+        <item>Swan\n</item>
+        <item>Elk Boar\n</item>
+        <item>Lynx\n</item>
+        <item>Lemur\n</item>
+        <item>Sloth\n</item>
+        <item>Mule\n</item>
+        <item>Baboon\n</item>
+        <item>Mammoth\n</item>
+        <item>Blue whale\n</item>
+        <item>Peacock\n</item>
+        <item>Snake\n</item>
+        <item>Rat\n</item>
+
+    </string-array>
+
+    <string-array name="calender">
+
+        <item>Calendar</item>
+        <item>Day</item>
+        <item>Date</item>
+        <item>Today</item>
+        <item>Yesterday</item>
+        <item>Tomorrow</item>
+        <item>Everyday</item>
+        <item>Day after tomorrow</item>
+        <item>Week</item>
+        <item>Once a Week</item>
+        <item>what date is it tomorrow</item>
+        <item>Today is the 1st January</item>
+        <item>My birthday is on the 17 of July</item>
+        <item>Which day is it today?</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Month</item>
+        <item>Year</item>
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+        <item>Decades</item>
+        <item>Era</item>
+        <item>Century</item>
+        <item>Holiday</item>
+        <item>Working Day</item>
+        <item>Session</item>
+        <item>Schedule</item>
+        <item>Deadline</item>
+        <item>Birthday</item>
+        <item>Anniversary</item>
+        <item>New Year</item>
+        <item>New decades</item>
+        <item>New Era</item>
+        <item>New Century</item>
+        <item>Whole Year</item>
+        <item>Tradition</item>
+        <item>Earlier</item>
+        <item>Delay</item>
+        <item>Ancient</item>
+        <item>Modern</item>
+
+    </string-array>
+
+    <string-array name="colors">
+
+        <item>Colour</item>
+        <item>Black</item>
+        <item>Blue</item>
+        <item>Brown</item>
+        <item>Green</item>
+        <item>Orange</item>
+        <item>Pink</item>
+        <item>Purple</item>
+        <item>White</item>
+        <item>Yellow</item>
+        <item>Indigo</item>
+        <item>Red</item>
+        <item>Violet</item>
+        <item>Black</item>
+
+    </string-array>
+
+    <string name="check">Ultimate
+    Tutorial: Explore Spring support features﻿
+    Last modified: 17 January 2023
+    Required plugins: Spring and Spring Boot (bundled)
+
+    This tutorial expands on Tutorial: Create your first Spring application to show how IntelliJ IDEA can help you write code, analyze your Spring application, and manage it at runtime. The tutorial assumes that you start with a simple Spring Boot Maven project generated with Spring Initializr. It should already have the Spring Boot Starter Web dependency for building web applications.
+
+    This tutorial guides you through steps that cover the following:
+
+    Add dependencies for JPA and H2 that enable your Spring application to store and retrieve relational data
+
+    Write and examine your code
+
+    Run your application and execute HTTP requests
+
+    Add Spring Boot Actuator for advanced health monitoring and endpoint analysis
+
+    Add Spring Boot Developer Tools for faster application updates
+
+    Add dependencies for JPA and H2﻿
+    The Spring Data JPA module provides support for data access using the Java Persistence API (JPA).
+
+    H2 is a fast in-memory SQL database written in Java.
+
+    Open the pom.xml file in your project root directory.
+
+    The pom.xml file in the project root directory
+    With the pom.xml file open in the editor, from the main menu, select Code | Generate Alt+Insert and then select Add dependency….
+
+    In the Dependencies tool window, find and add the necessary Maven dependencies:
+
+    org.springframework.boot:spring-boot-starter-data-jpa
+
+    com.h2database:h2
+
+    Alternatively, you can add these dependencies to pom.xml manually:
+
+    <dependency>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-data-jpa</artifactId>
+    </dependency>
+
+    <dependency>
+        <groupId>com.h2database</groupId>
+        <artifactId>h2</artifactId>
+    </dependency>
+    Click The Load Maven Changes button in the popup or press Ctrl+Shift+O to load the updated project structure.
+
+    Create a JPA entity that will be stored in the database﻿
+    To define the data model for your Spring application, create a JPA entity. The application will create and store Customer objects that have an ID, a first name, and a last name.
+
+    Create the Customer.java file under src/main/java/com/example/springboottutorial.
+
+        In the Project tool window, select the src/main/java/com/example/springboottutorial directory and then select File | New | Java Class from the main menu (or press Alt+Insert and select Java Class). Select Class and type the name of the class: Customer.</string>
+
+</resources>
